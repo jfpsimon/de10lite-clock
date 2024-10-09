@@ -21,7 +21,6 @@ If you only want to have a look at the source code, open these two files here on
 3. **Manual Time Adjustment**: 
    - When `KEY[0]` is pressed, the minutes increment. 
    - When `KEY[1]` is pressed, the hours increment. 
-   - The clock resets to 00:00:00 after 23:59:59.
 4. **Display**: The time is displayed on the six-digit seven-segment display.
 
 ## How to use
