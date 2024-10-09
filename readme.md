@@ -9,7 +9,7 @@ This project implements a digital clock on the DE10-Lite FPGA development board 
 
 ## Files
 
-- `clock_display.vhd`: The main VHDL file that contains the clock logic.
+- `de10lite-clock.vhd`: The main VHDL file that contains the clock logic.
 - `seven_segment_display.vhd`: A module for driving each seven-segment display.
 
 If you only want to have a look at the source code, open these two files here on GitHub or in a text editor on your local machine.
